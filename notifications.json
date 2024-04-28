@@ -1,0 +1,29 @@
+[
+  {
+    "id": "025a04b9-4114-4c7c-86c2-f07df5c6b514",
+    "title": "Te queda 1 día para entregar la tarea en tu curso: COMPRENSIÓN Y REDACCIÓN DE TEXTOS I",
+    "sectionId": "2fdbb779-cef3-5689-bfce-790677a12e76",
+    "courseId": "bad25dda-b36b-5dee-a475-0d0b7747ca2c",
+    "userId": "4ca21cf2-d5b2-55db-97e4-c9c8252361a8",
+    "teamId": "",
+    "memberId": "",
+    "finishAt": "",
+    "startAt": "2024-04-27 09:04:11",
+    "descriptiveDate": "27 abr. 2024",
+    "hour": "9:04 AM",
+    "status": "CREATED",
+    "resourceType": "Homework_Expired",
+    "resourceId": "0117f7d4-6f99-5793-a6a9-2e390b22ca61",
+    "isEvaluated": null,
+    "isNotified": true,
+    "seen": true,
+    "courseName": "COMPRENSIÓN Y REDACCIÓN DE TEXTOS I",
+    "classNumber": "51518",
+    "metadata": {
+      "themeId": "12f7a902-4422-52cf-b9a0-4a5fbbca58df",
+      "unityId": "f70f9deb-669e-5981-948d-9a6128003956",
+      "contentId": "0117f7d4-6f99-5793-a6a9-2e390b22ca61",
+      "weekNumber": 5
+    }
+  }
+]
